@@ -4,7 +4,7 @@
 // @version      10.1
 // @description  At this moment the script allows you posting statuses about apps using their ID, rating up all posts in your activity feed in 2 clicks.
 // @author       Lutymane
-// @match        *://steamcommunity.com/*/*/home/
+// @match        *://steamcommunity.com/*/*/home*
 // @grant        unsafeWindow
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // ==/UserScript==
